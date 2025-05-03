@@ -68,7 +68,7 @@ Evaluation Metrics
 Usage Instructions via GitHub
 
 1. Clone the repository:
-    git clone https://github.com/your-username/loan-default-predictor.git
+    git clone https://github.com/kpatarawong/loan-cap-kalv-private.git
     cd loan-default-predictor
 
 2. Launch Jupyter Notebook:
