@@ -81,8 +81,7 @@ Usage Instructions via Google Colab
 Open Google Colab
 
 1. Click the following link to access the application on Google Colab:
-https://colab.research.google.com/drive/1nMylb5WNHeIDq08Xuq4Ih8E33
-8DuKqf4?usp=sharing
+https://colab.research.google.com/drive/1nMylb5WNHeIDq08Xuq4Ih8E338DuKqf4?usp=sharing
 
 2. Log in with your Google email or create a Google account.
 
