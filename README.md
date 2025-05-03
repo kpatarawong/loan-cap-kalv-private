@@ -78,25 +78,6 @@ Usage Instructions via GitHub
 
 Usage Instructions via Google Colab
 
-Open Google Colab
-
-1. Click the following link to access the application on Google Colab:
-https://colab.research.google.com/drive/1nMylb5WNHeIDq08Xuq4Ih8E338DuKqf4?usp=sharing
-
-2. Log in with your Google email or create a Google account.
-
-3. Run the Notebook
-
-4. Once opened, click "Runtime" → "Run all" to execute all code cells.
-
-5. Once opened, click "Runtime" → "Run all" to execute all code cells.
-
-6. A pop-up screen will display a warning, as shown below. Click “Run
-Anyway.”
-
-7. It will take about 30 seconds to run the code. Wait until you see the
-interactive widget below. 
-
 Future Improvements
 
 - Deploy as a standalone web application using Flask or Streamlit
