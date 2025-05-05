@@ -76,8 +76,6 @@ Usage Instructions via GitHub
 
 3. Open Capstone_Loan.ipynb, run all cells, and use the widget interface to simulate loan applications.
 
-Usage Instructions via Google Colab
-
 Future Improvements
 
 - Deploy as a standalone web application using Flask or Streamlit
